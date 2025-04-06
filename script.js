@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/food";
+const API_URL = "https://webservice-hw3-app-hycneybzc9dhbxbq.eastus-01.azurewebsites.net/food";
 
 document.addEventListener("DOMContentLoaded", loadFoods);
 
