@@ -7,6 +7,7 @@ const port = process.env.PORT;
 
 app.use(cors());
 app.use(express.json());
+app.use(express.static('public'));  // Or 'static', depending on where your FE files are
 
 // SQL Server configuration (Azure SQL)
 const config = {
