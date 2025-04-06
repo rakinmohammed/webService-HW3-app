@@ -14,3 +14,4 @@ Prerequisites: The following need to be installed
 5. (Optional) If a different database username and password is being used, update the info in the 'server.js' file.
 6. Start the server by running the following command: 'node server.js'
 7. Open 'index.html' in a browser to access the Web app
+8. Notes changes for running in Azure App
